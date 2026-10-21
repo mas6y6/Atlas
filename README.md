@@ -1,5 +1,11 @@
 # Atlas
 
+> [!WARNING]
+> This project is early development! And everything INCLUDING THE ACTUAL FRAMEWORK ITSELF
+> **IS SUBJECT TO CHANGE!!**
+>
+> Releases will be made as soon as the project is stable and usable.
+
 Atlas is a self-hosted server and process management platform designed to make deploying and managing applications across multiple nodes simple, secure, and accessible.
 
 ## Goals
